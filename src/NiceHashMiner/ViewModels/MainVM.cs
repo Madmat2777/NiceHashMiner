@@ -233,6 +233,7 @@ namespace NiceHashMiner.ViewModels
                 {
                     var vm = Plugins.FirstOrDefault(pluginVM => pluginVM.Plugin.PluginUUID == plugin.PluginUUID);
                     if (vm != null) continue;
+                    
                     Plugins.Add(new PluginEntryVM(plugin));
                 }
                 // remove missing

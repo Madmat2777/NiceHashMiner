@@ -9,12 +9,16 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using static NHMCore.Translations;
+using NHMCore.Mining;
+using System.Linq;
 
 namespace NiceHashMiner.ViewModels.Plugins
 {
     public class PluginEntryVM : BaseVM
     {
         public PluginPackageInfoCR Plugin { get; }
+        public List<ComputeDevice> Devices { get; }
+        public List<PluginAlgorithmEntry> Algorithms { get; } = new List<PluginAlgorithmEntry>();
         private IProgress<Tuple<PluginInstallProgressState, int>> Progress;
 
         public string InstallString
@@ -102,6 +106,16 @@ namespace NiceHashMiner.ViewModels.Plugins
         {
             Plugin = plugin;
             Plugin.PropertyChanged += Plugin_PropertyChanged;
+            Devices = AvailableDevices.Devices.Where(dev => dev.AlgorithmSettings.Any(algo => algo.PluginContainer.PluginUUID == plugin.PluginUUID)).ToList();
+            var algorithmsUniqueIDs = new HashSet<string>(Devices.SelectMany(dev => dev.AlgorithmSettings.Select(algo => algo.AlgorithmStringID)));
+
+            foreach(var algoId in algorithmsUniqueIDs)
+            {
+                var devices = Devices.Select(dev => dev.AlgorithmSettings.FirstOrDefault(a => a.AlgorithmStringID == algoId)).Where(a => a != null).ToList(); 
+                Algorithms.Add(new PluginAlgorithmEntry(devices));
+            }
+                
+            //(dev => dev.AlgorithmSettingsCollection.Any(ac => ac.PluginContainer.PluginUUID == plugin.PluginUUID));
 
             // Filter the dict to remove empty entries
             FilteredSupportedAlgorithms = new Dictionary<string, List<string>>();
@@ -204,4 +218,6 @@ namespace NiceHashMiner.ViewModels.Plugins
         }
 
     }
+
+
 }

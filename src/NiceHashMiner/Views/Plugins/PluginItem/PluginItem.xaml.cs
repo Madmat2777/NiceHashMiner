@@ -16,6 +16,7 @@ namespace NiceHashMiner.Views.Plugins.PluginItem
     public partial class PluginItem : UserControl
     {
         private PluginEntryVM _vm;
+        private ExtraLaunchParameters _extraLaunchParameter;
         public PluginItem()
         {
             InitializeComponent();
@@ -139,6 +140,13 @@ namespace NiceHashMiner.Views.Plugins.PluginItem
         {
             var myControl = (Grid)PluginActionsButtonContext.Template.FindName("pluginActionsGrid", PluginActionsButtonContext);
             WindowUtils.Translate(myControl);
+        }
+
+        private void ELPPanelButton_Click_SetELP(object sender, RoutedEventArgs e)
+        {
+            _extraLaunchParameter = new ExtraLaunchParameters();
+            _extraLaunchParameter.DataContext = _vm;
+            CustomDialogManager.ShowModalDialog(_extraLaunchParameter);
         }
     }
 }
