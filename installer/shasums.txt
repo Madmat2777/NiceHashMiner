@@ -1,0 +1,134 @@
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\.gitignore :
+140ae918152189fc841cbd8807cf31920402a688
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\createSha256Sums.bat :
+8b70e7de3ea053879ed7f16321ef8624093a02c4
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\EULA.zip :
+007a4ff968ab3ac0d779f2850fddb9ebc86bd2f6
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\Newtonsoft.Json.xml :
+9b6ab559cccce89e989259e356c55be6e370f1db
+CertUtil: -hashfile La commande s’est terminée correctement.
+CertUtil : -hashfile ÉCHEC de la commande : 0x80070020 (WIN32: 32 ERROR_SHARING_VIOLATION)
+CertUtil: Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\build_settings\build_settings_production.json :
+3ed17fb862a6749753bfde00613600dcbfa3e33b
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\build_settings\build_settings_testnet.json :
+115debe9fa62bc6fb2db4efa522a88e3edd46f3b
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\build_settings\build_settings_TESTNETDEV.json :
+0bd275feaa3d58a93aff75669473d656ea54662b
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\.gitignore :
+039552e232a57c33ba4a90ac530d6b956bb8b8aa
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\installer.nsi :
+e9b5413c8437c9bc02fa137cb7bf2bffa91706e1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\README.md :
+8f094fa809d91d011708395fcd34e4cfd8436c86
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\TODO.md :
+a72c551642c629da1b6092357f93f2d41c2bdc29
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\uninstaller.nsi :
+a4912c6daacf09bef1aff8e6f8a96a780716ec66
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\updater.nsi :
+cce470fa43c351fc7d4299fb3a70c5898aa75bd2
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\userDataCheck.nsh :
+6db0f636283067316c950e14c7a99ea0a3ea23ac
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\userDataCheckGUI.nsh :
+bfa0d3683a6595caa7f70d95e60985e8f92ae8f0
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icon.ico :
+616b5775ba9f7a852e144e86a4b270f86e8cc48e
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\installerHeaderIcon.ico :
+a8cb6ccdb2dded326810e04dbc6c906775e38923
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\installerIcon.ico :
+616b5775ba9f7a852e144e86a4b270f86e8cc48e
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\installerSidebar.bmp :
+819da34abebfb15c1f1e8c5e1a3b99b5ceac2cb1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\license.rtf :
+e5aa5805c878819cdc594bc08555b92a81ce8132
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\uninstallerSidebar.bmp :
+819da34abebfb15c1f1e8c5e1a3b99b5ceac2cb1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\16x16.png :
+902caa29136e0ed61630ad427931bbc668760005
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\20x20.png :
+a0d968f21d5c3d2b79a2b8027c1c5114978ec8ab
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\24x24.png :
+919c021ef0e5ec2f7beedd05f464d512b32afe69
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\256x256.png :
+61e6c9cc31c6bbd4c0934c5aa1bf1d32f318f94d
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\32x32.png :
+9d86f8b41068a998ea418a501b1d20c9dfe1801b
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\40x40.png :
+e4edb9383a23cb502c35744feeab6283d3d286f4
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\48x48.png :
+b35882cc01b686f0b53fa5429efd6b29c2099d4f
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\64x64.png :
+6bf882f18ea83f0ab030122d6e48c0c654c888d1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\icons\icon.ico :
+616b5775ba9f7a852e144e86a4b270f86e8cc48e
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\assets\_unused\installerHeaderIcon.ico :
+616b5775ba9f7a852e144e86a4b270f86e8cc48e
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_3rdparty\allowOnlyOneInstallerInstance.nsh :
+3b1d3900fd2119c4e10ff6e16158db2966ce4d26
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_3rdparty\getProcessInfo.nsh :
+b60bf80deb96aea86c37cd23f9b15b98c7acfe77
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_3rdparty\StrContains.nsh :
+5c694c8dee4e4f067eba51288be9233bb16b3145
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\assistedInstaller.nsh :
+38068a58b3d9cc531d42820c2b4a60dda483132b
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\common.nsh :
+ab63957e2f33ab7f37960fdd5ba1f14c6ba0f8d1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\flagMacros.nsh :
+9e59af661893dd9a9aa1184bb2c120a28d5610ce
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\langs.nsh :
+eb5cdea36166ce91073e583e5f1229fd11793a66
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\langStrings.nsh :
+6d7eb08e14883e142c36b20776b6ee65908bba1d
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_common\packageDefs.nsh :
+ac2535d6416138b72740a41da99d7af49e956c01
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_installer\installer.nsh :
+c7314d81689c5719ade548698b065c1182737707
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_installer\installSection.nsh :
+5e2c2dfa89793ea963f6322a9ee1b32d83aa9778
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_installer\installUtil.nsh :
+e7e41f5c63adf0b493b6d352073e971e4fee92f1
+CertUtil: -hashfile La commande s’est terminée correctement.
+Hachage SHA1 de C:\Users\boble\OneDrive\Documents\GitHub\NiceHashMiner\installer\nsis_template\include_uninstaller\uninstaller.nsh :
+b1d483bc25ac396e58b629a53f0fdad0b515afcf
+CertUtil: -hashfile La commande s’est terminée correctement.
